@@ -12,5 +12,11 @@ public class Practice1 {
 	public void remoteMethod(){
 	// this is from remote repo
 	}
+	public void sumMethod(int a, int b){
+		
+		a + b;
+		
+	}
+	
 
 }

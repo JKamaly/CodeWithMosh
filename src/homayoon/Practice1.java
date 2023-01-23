@@ -14,7 +14,7 @@ public class Practice1 {
 	}
 	public void sumMethod(int a, int b){
 		
-		a + b;
+		//
 		
 	}
 	
